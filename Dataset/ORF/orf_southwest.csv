@@ -1,0 +1,122 @@
+year,month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carrier_ct,weather_ct,nas_ct,security_ct,late_aircraft_ct,arr_cancelled,arr_diverted,arr_delay,carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
+2025,6,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",326.00,99.00,36.98,1.90,16.97,0.00,43.15,3.00,0.00,5014.00,1877.00,127.00,688.00,0.00,2322.00
+2025,5,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",259.00,55.00,17.06,3.96,8.11,1.00,24.87,2.00,2.00,2746.00,786.00,228.00,283.00,25.00,1424.00
+2025,4,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",251.00,57.00,24.77,0.00,5.73,1.00,25.51,0.00,0.00,2966.00,1187.00,0.00,161.00,29.00,1589.00
+2025,3,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",254.00,46.00,18.34,1.29,4.62,0.00,21.74,3.00,3.00,2337.00,937.00,70.00,154.00,0.00,1176.00
+2025,2,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",213.00,30.00,12.05,0.78,7.35,0.00,9.82,3.00,0.00,1921.00,847.00,63.00,320.00,0.00,691.00
+2025,1,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",232.00,33.00,11.12,2.18,8.97,0.00,10.73,1.00,0.00,2259.00,592.00,430.00,516.00,0.00,721.00
+2024,12,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",253.00,66.00,30.23,0.00,10.82,0.00,24.95,0.00,0.00,2637.00,992.00,0.00,388.00,0.00,1257.00
+2024,11,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",242.00,36.00,13.13,0.27,7.90,0.00,14.70,0.00,0.00,1691.00,886.00,18.00,297.00,0.00,490.00
+2024,10,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",286.00,42.00,13.89,0.00,5.43,0.00,22.68,3.00,0.00,1550.00,533.00,0.00,133.00,0.00,884.00
+2024,9,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",293.00,43.00,18.72,0.00,6.10,0.00,18.18,0.00,0.00,1695.00,714.00,0.00,167.00,0.00,814.00
+2024,8,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",302.00,85.00,32.05,0.00,19.99,0.00,32.97,4.00,1.00,3791.00,1255.00,0.00,1074.00,0.00,1462.00
+2024,7,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",293.00,109.00,33.01,4.36,22.00,0.00,49.63,2.00,0.00,4941.00,1490.00,302.00,1078.00,0.00,2071.00
+2024,6,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",291.00,96.00,46.69,2.58,8.57,1.00,37.15,0.00,1.00,4115.00,1920.00,174.00,259.00,36.00,1726.00
+2024,5,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",263.00,88.00,26.17,0.73,15.93,0.00,45.16,0.00,1.00,4126.00,933.00,323.00,771.00,0.00,2099.00
+2024,4,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",254.00,43.00,16.51,0.00,3.21,0.00,23.28,1.00,0.00,1782.00,755.00,0.00,135.00,0.00,892.00
+2024,3,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",250.00,55.00,25.26,0.00,1.84,0.00,27.90,1.00,1.00,2539.00,1149.00,0.00,52.00,0.00,1338.00
+2024,2,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",203.00,31.00,11.39,0.00,3.17,0.00,16.44,0.00,0.00,1480.00,373.00,0.00,79.00,0.00,1028.00
+2024,1,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",225.00,66.00,24.49,1.92,9.95,0.00,29.64,1.00,0.00,3197.00,1002.00,282.00,416.00,0.00,1497.00
+2023,12,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",264.00,71.00,35.87,0.00,7.46,0.00,27.67,3.00,0.00,3472.00,1594.00,0.00,228.00,0.00,1650.00
+2023,11,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",254.00,39.00,19.94,0.00,4.01,0.00,15.06,0.00,0.00,1549.00,876.00,0.00,118.00,0.00,555.00
+2023,10,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",302.00,61.00,33.36,0.00,3.65,0.00,23.99,1.00,0.00,2021.00,1179.00,0.00,87.00,0.00,755.00
+2023,9,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",245.00,52.00,22.61,0.00,6.02,0.00,23.37,4.00,0.00,2091.00,828.00,0.00,228.00,0.00,1035.00
+2023,8,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",256.00,76.00,32.92,0.98,8.39,0.00,33.71,2.00,1.00,3044.00,1069.00,51.00,364.00,0.00,1560.00
+2023,7,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",257.00,93.00,30.58,2.38,15.74,0.00,44.30,2.00,2.00,6195.00,1632.00,243.00,1269.00,0.00,3051.00
+2023,6,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",229.00,72.00,31.56,1.00,10.28,0.00,29.16,3.00,0.00,3440.00,1378.00,97.00,509.00,0.00,1456.00
+2023,5,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",233.00,63.00,29.35,0.55,3.40,0.00,29.70,6.00,2.00,2884.00,1653.00,18.00,113.00,0.00,1100.00
+2023,4,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",220.00,74.00,27.79,2.24,6.84,0.00,37.12,1.00,0.00,3593.00,1193.00,159.00,224.00,0.00,2017.00
+2023,3,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",207.00,57.00,26.74,0.00,3.28,0.00,26.98,1.00,1.00,2666.00,964.00,0.00,86.00,0.00,1616.00
+2023,2,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",172.00,20.00,12.06,0.00,0.34,0.00,7.60,0.00,0.00,663.00,363.00,0.00,15.00,0.00,285.00
+2023,1,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",197.00,39.00,17.30,0.15,2.93,0.00,18.62,1.00,0.00,1999.00,607.00,26.00,130.00,0.00,1236.00
+2022,12,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",241.00,76.00,37.61,0.30,4.79,0.00,33.31,35.00,0.00,4967.00,2653.00,26.00,187.00,0.00,2101.00
+2022,11,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",235.00,66.00,29.87,0.00,3.89,0.00,32.24,0.00,0.00,2576.00,1060.00,0.00,120.00,0.00,1396.00
+2022,10,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",252.00,62.00,35.41,0.00,2.05,0.00,24.54,2.00,1.00,2464.00,1358.00,0.00,57.00,0.00,1049.00
+2022,9,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",241.00,58.00,35.40,0.96,3.69,0.00,17.95,7.00,1.00,2423.00,1414.00,52.00,97.00,0.00,860.00
+2022,8,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",256.00,106.00,60.72,2.94,8.15,0.00,34.19,4.00,1.00,5971.00,2526.00,412.00,503.00,0.00,2530.00
+2022,7,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",258.00,105.00,55.37,1.17,9.17,0.00,39.29,2.00,0.00,5302.00,2385.00,138.00,373.00,0.00,2406.00
+2022,6,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",240.00,88.00,43.97,2.13,5.80,1.00,35.10,3.00,1.00,4573.00,2305.00,215.00,232.00,43.00,1778.00
+2022,5,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",194.00,65.00,37.21,1.93,5.66,0.00,20.20,4.00,1.00,3004.00,1554.00,342.00,165.00,0.00,943.00
+2022,4,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",189.00,78.00,46.23,1.03,5.64,0.00,25.10,4.00,0.00,3274.00,1654.00,25.00,295.00,0.00,1300.00
+2022,3,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",227.00,64.00,35.95,0.00,3.58,0.62,23.85,5.00,1.00,3434.00,1812.00,0.00,107.00,18.00,1497.00
+2022,2,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",200.00,43.00,25.08,0.39,3.47,0.00,14.07,4.00,1.00,2264.00,1278.00,64.00,230.00,0.00,692.00
+2022,1,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",221.00,47.00,31.69,0.86,2.95,0.00,11.50,24.00,0.00,2839.00,1763.00,46.00,193.00,0.00,837.00
+2021,12,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",230.00,69.00,32.71,0.00,8.11,0.00,28.18,5.00,1.00,3659.00,1531.00,0.00,439.00,0.00,1689.00
+2021,11,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",220.00,53.00,26.52,0.00,5.41,1.00,20.07,0.00,0.00,2210.00,1163.00,0.00,138.00,26.00,883.00
+2021,10,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",248.00,86.00,47.16,0.00,5.97,0.40,32.47,4.00,1.00,3463.00,1946.00,0.00,213.00,6.00,1298.00
+2021,9,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",242.00,51.00,25.99,2.35,5.04,0.00,17.61,2.00,0.00,2007.00,896.00,98.00,239.00,0.00,774.00
+2021,8,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",241.00,100.00,52.11,3.19,11.77,0.00,32.92,5.00,0.00,4635.00,2312.00,90.00,464.00,0.00,1769.00
+2021,7,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",248.00,87.00,47.11,4.02,9.37,0.00,26.49,4.00,0.00,4205.00,2015.00,228.00,457.00,0.00,1505.00
+2021,6,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",223.00,95.00,46.95,2.37,11.94,0.00,33.74,5.00,0.00,5635.00,2685.00,133.00,603.00,0.00,2214.00
+2021,5,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",177.00,37.00,25.26,1.00,1.00,0.00,9.74,0.00,0.00,1486.00,999.00,25.00,39.00,0.00,423.00
+2021,4,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",167.00,25.00,11.95,0.07,2.34,0.00,10.64,0.00,0.00,1093.00,388.00,17.00,53.00,0.00,635.00
+2021,3,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",199.00,22.00,13.64,0.32,0.92,0.79,6.33,3.00,0.00,1183.00,522.00,58.00,19.00,33.00,551.00
+2021,2,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",160.00,26.00,9.71,1.54,6.45,0.00,8.30,12.00,0.00,991.00,266.00,94.00,251.00,0.00,380.00
+2021,1,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",181.00,27.00,12.42,0.00,6.76,0.00,7.81,3.00,0.00,1073.00,528.00,0.00,178.00,0.00,367.00
+2020,12,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",160.00,22.00,16.11,0.00,2.32,0.00,3.57,1.00,0.00,860.00,539.00,0.00,81.00,0.00,240.00
+2020,11,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",169.00,13.00,4.48,1.00,2.19,0.00,5.32,1.00,0.00,554.00,155.00,36.00,66.00,0.00,297.00
+2020,10,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",112.00,6.00,5.60,0.00,0.37,0.00,0.03,0.00,1.00,219.00,209.00,0.00,8.00,0.00,2.00
+2020,9,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",108.00,7.00,4.61,1.00,0.39,0.00,1.00,0.00,0.00,161.00,97.00,42.00,7.00,0.00,15.00
+2020,8,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",202.00,13.00,4.81,0.98,1.13,0.00,6.08,7.00,0.00,441.00,144.00,143.00,22.00,0.00,132.00
+2020,7,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",220.00,22.00,7.17,3.41,2.48,0.00,8.94,0.00,1.00,1152.00,275.00,122.00,123.00,0.00,632.00
+2020,6,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",149.00,20.00,8.72,2.69,2.03,0.00,6.56,0.00,0.00,1189.00,340.00,122.00,45.00,0.00,682.00
+2020,5,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",97.00,4.00,3.54,0.00,0.00,0.00,0.46,6.00,0.00,95.00,84.00,0.00,0.00,0.00,11.00
+2020,4,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",163.00,2.00,1.00,0.00,1.00,0.00,0.00,71.00,1.00,100.00,26.00,0.00,74.00,0.00,0.00
+2020,3,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",204.00,7.00,5.00,0.00,1.00,0.00,1.00,29.00,0.00,248.00,179.00,0.00,20.00,0.00,49.00
+2020,2,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",175.00,25.00,12.50,0.00,2.61,0.00,9.89,0.00,0.00,1006.00,501.00,0.00,97.00,0.00,408.00
+2020,1,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",195.00,29.00,14.81,0.63,1.64,0.00,11.92,2.00,0.00,1021.00,544.00,26.00,53.00,0.00,398.00
+2019,12,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",238.00,48.00,25.02,0.00,1.74,0.00,21.24,1.00,1.00,2145.00,926.00,0.00,82.00,0.00,1137.00
+2019,11,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",229.00,29.00,15.99,0.00,2.93,0.00,10.08,0.00,0.00,1057.00,564.00,0.00,81.00,0.00,412.00
+2019,10,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",211.00,23.00,11.02,0.00,0.45,0.00,11.53,1.00,0.00,1074.00,560.00,0.00,23.00,0.00,491.00
+2019,9,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",221.00,17.00,7.09,0.00,0.02,0.00,9.89,10.00,0.00,614.00,314.00,0.00,1.00,0.00,299.00
+2019,8,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",235.00,52.00,19.51,3.70,5.75,0.00,23.04,2.00,1.00,2660.00,721.00,294.00,208.00,0.00,1437.00
+2019,7,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",244.00,52.00,19.29,3.12,8.14,0.00,21.45,10.00,1.00,3331.00,1276.00,196.00,550.00,0.00,1309.00
+2019,6,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",234.00,40.00,14.47,3.08,7.10,0.00,15.34,4.00,1.00,2079.00,814.00,112.00,274.00,0.00,879.00
+2019,5,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",216.00,59.00,22.29,2.51,7.21,0.00,26.99,1.00,1.00,2588.00,784.00,147.00,337.00,0.00,1320.00
+2019,4,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",202.00,43.00,20.47,1.82,3.94,0.00,16.76,6.00,1.00,2481.00,1012.00,74.00,252.00,0.00,1143.00
+2019,3,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",185.00,24.00,13.66,0.80,0.79,0.00,8.76,6.00,0.00,1172.00,726.00,75.00,32.00,0.00,339.00
+2019,2,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",163.00,40.00,19.97,1.79,3.24,0.99,14.00,6.00,0.00,2555.00,1181.00,184.00,207.00,395.00,588.00
+2019,1,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",188.00,32.00,17.53,0.46,2.32,0.00,11.69,8.00,1.00,1485.00,871.00,18.00,65.00,0.00,531.00
+2018,12,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",210.00,57.00,33.29,0.00,4.35,0.63,18.74,0.00,0.00,2628.00,1253.00,0.00,184.00,20.00,1171.00
+2018,11,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",216.00,33.00,15.55,1.18,1.75,0.00,14.52,3.00,0.00,2031.00,770.00,229.00,134.00,0.00,898.00
+2018,10,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",222.00,31.00,13.71,0.00,4.04,0.00,13.25,1.00,1.00,889.00,382.00,0.00,104.00,0.00,403.00
+2018,9,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",239.00,27.00,11.49,1.08,6.14,0.00,8.30,19.00,0.00,851.00,345.00,39.00,196.00,0.00,271.00
+2018,8,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",251.00,38.00,14.88,0.19,3.94,0.00,18.99,8.00,0.00,1530.00,469.00,28.00,250.00,0.00,783.00
+2018,7,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",261.00,70.00,31.91,3.82,6.44,0.00,27.84,8.00,0.00,3577.00,1444.00,496.00,440.00,0.00,1197.00
+2018,6,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",255.00,60.00,29.88,1.91,6.09,0.00,22.11,7.00,0.00,2816.00,1229.00,106.00,516.00,0.00,965.00
+2018,5,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",266.00,64.00,33.04,3.59,9.44,0.00,17.93,1.00,1.00,3760.00,1672.00,428.00,570.00,0.00,1090.00
+2018,4,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",250.00,43.00,22.89,1.92,2.12,0.00,16.07,1.00,0.00,1976.00,898.00,65.00,84.00,0.00,929.00
+2018,3,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",230.00,33.00,14.78,3.27,4.69,0.00,10.26,6.00,0.00,1750.00,646.00,438.00,215.00,0.00,451.00
+2018,2,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",207.00,48.00,16.56,1.64,4.84,0.00,24.96,7.00,2.00,2234.00,581.00,210.00,223.00,0.00,1220.00
+2018,1,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",231.00,34.00,17.47,0.63,7.61,0.00,8.28,18.00,1.00,1222.00,570.00,12.00,284.00,0.00,356.00
+2017,12,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",221.00,52.00,28.13,0.10,5.12,0.00,18.65,4.00,0.00,1931.00,1036.00,10.00,208.00,0.00,677.00
+2017,11,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",218.00,24.00,12.23,0.00,2.32,0.00,9.45,4.00,0.00,744.00,350.00,0.00,71.00,0.00,323.00
+2017,10,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",216.00,26.00,11.91,0.00,2.08,0.00,12.01,0.00,0.00,1001.00,396.00,0.00,50.00,0.00,555.00
+2017,9,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",238.00,17.00,7.68,0.00,2.55,0.00,6.77,4.00,0.00,955.00,525.00,0.00,79.00,0.00,351.00
+2017,8,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",254.00,59.00,21.98,0.00,7.08,0.00,29.94,8.00,1.00,2431.00,767.00,0.00,289.00,0.00,1375.00
+2017,7,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",262.00,52.00,17.91,0.11,6.06,0.00,27.92,0.00,0.00,2618.00,740.00,8.00,489.00,0.00,1381.00
+2017,6,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",250.00,59.00,21.32,1.52,6.34,0.00,29.81,2.00,1.00,2416.00,886.00,121.00,211.00,0.00,1198.00
+2017,5,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",261.00,37.00,14.41,1.00,4.87,0.00,16.72,2.00,0.00,1547.00,501.00,21.00,168.00,0.00,857.00
+2017,4,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",230.00,39.00,13.93,1.34,7.59,0.00,16.14,1.00,0.00,1513.00,422.00,84.00,274.00,0.00,733.00
+2017,3,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",236.00,32.00,7.76,2.00,6.87,0.00,15.37,9.00,0.00,1044.00,302.00,93.00,165.00,0.00,484.00
+2017,2,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",210.00,15.00,5.05,0.00,1.17,0.00,8.78,1.00,0.00,482.00,162.00,0.00,26.00,0.00,294.00
+2017,1,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",235.00,42.00,21.31,0.00,7.51,0.00,13.19,10.00,1.00,1717.00,778.00,0.00,222.00,0.00,717.00
+2016,12,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",232.00,39.00,19.18,1.50,5.86,0.00,12.46,5.00,2.00,2187.00,864.00,275.00,279.00,0.00,769.00
+2016,11,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",232.00,33.00,13.61,0.00,4.53,0.67,14.19,0.00,1.00,1137.00,470.00,0.00,152.00,10.00,505.00
+2016,10,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",246.00,19.00,11.28,1.00,2.96,0.00,3.75,5.00,0.00,567.00,342.00,36.00,94.00,0.00,95.00
+2016,9,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",234.00,27.00,13.08,0.42,5.87,0.00,7.63,0.00,0.00,1230.00,386.00,83.00,319.00,0.00,442.00
+2016,8,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",251.00,53.00,19.24,2.57,8.58,0.00,22.62,0.00,0.00,2704.00,595.00,179.00,234.00,0.00,1696.00
+2016,7,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",267.00,74.00,27.84,3.14,9.09,0.00,33.93,10.00,2.00,5022.00,1427.00,196.00,609.00,0.00,2790.00
+2016,6,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",254.00,63.00,21.53,1.69,7.42,1.00,31.36,5.00,1.00,2790.00,737.00,88.00,323.00,15.00,1627.00
+2016,5,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",263.00,39.00,11.70,1.97,2.19,0.00,23.14,0.00,1.00,1764.00,481.00,80.00,53.00,0.00,1150.00
+2016,4,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",236.00,31.00,14.01,1.00,4.01,0.10,11.89,0.00,0.00,1209.00,568.00,15.00,131.00,2.00,493.00
+2016,3,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",208.00,27.00,11.72,0.00,5.08,0.00,10.20,2.00,0.00,990.00,430.00,0.00,162.00,0.00,398.00
+2016,2,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",190.00,26.00,11.23,1.14,5.35,0.00,8.27,5.00,2.00,969.00,440.00,49.00,190.00,0.00,290.00
+2016,1,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",204.00,34.00,14.32,1.00,6.52,0.00,12.16,12.00,1.00,1687.00,799.00,56.00,194.00,0.00,638.00
+2015,12,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",194.00,45.00,17.49,2.90,1.93,0.00,22.68,1.00,1.00,2359.00,783.00,188.00,66.00,0.00,1322.00
+2015,11,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",197.00,31.00,12.87,1.07,2.79,0.76,13.51,0.00,1.00,1701.00,733.00,93.00,88.00,13.00,774.00
+2015,10,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",216.00,29.00,9.60,0.00,4.19,0.00,15.21,0.00,0.00,1261.00,294.00,0.00,140.00,0.00,827.00
+2015,9,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",206.00,37.00,10.58,1.74,6.15,0.00,18.53,0.00,0.00,1651.00,302.00,176.00,153.00,0.00,1020.00
+2015,8,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",227.00,72.00,31.83,1.52,5.03,1.00,32.61,6.00,0.00,3691.00,1519.00,46.00,169.00,18.00,1939.00
+2015,7,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",233.00,95.00,36.87,2.75,6.71,0.00,48.67,2.00,1.00,5537.00,1965.00,382.00,358.00,0.00,2832.00
+2015,6,WN,Southwest Airlines Co.,ORF,"Norfolk, VA: Norfolk International",225.00,82.00,31.27,1.13,9.65,0.00,39.95,11.00,0.00,5029.00,1529.00,71.00,440.00,0.00,2989.00

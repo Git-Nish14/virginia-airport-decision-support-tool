@@ -36,7 +36,7 @@ The project was developed as part of the **DASC 620 Data Project**.
 
 * **Data was cleaned and transformed before analysis**
 
-**Note**: Some data sources may be subject to availability or licensing restrictions.
+**Note**: Some data sources may be subject to availability or licensing restrictions.Last updated 19th Feb 2026
 
 ## 📊 Analysis Highlights
 
